@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="field">Enter a String</string>
+    <string name="display">Palindrome Checker</string>
+    <string name="button">Check</string>
+</resources>
